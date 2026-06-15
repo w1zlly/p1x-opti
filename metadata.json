@@ -1,0 +1,6 @@
+{
+  "name": "Ambient Focus Hub",
+  "description": "An elegant, minimalist workspace with a customizable focus timer, dynamic Web Audio-synthesized soundscapes, task-tracking ledger, and daily reflections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
